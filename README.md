@@ -14,7 +14,7 @@ All supplier names, quotations, prices, and transactions are fictional sample da
 
 The dashboard provides a high-level overview of RFQs tracked, quotations received, compliant quotations, and approved requisitions. It also summarizes quotation counts, lowest compliant costs, recommended suppliers, and evaluation status for selected purchase requisitions.
 
-![RFQ and Supplier Quotation Evaluation Dashboard](screenshots/dashboard-sheet.png)
+![RFQ and Supplier Quotation Evaluation Dashboard](screenshots/Dashboard-Sheet.png)
 
 ## Quotation Comparison
 
@@ -22,8 +22,8 @@ The Quotation Comparison worksheet brings supplier offers together for a like-fo
 
 Total quoted cost incorporates the listed quantity, discount, shipping, and VAT assumptions. The worksheet also distinguishes eligible quotations from non-compliant or pending-review offers.
 
-![Quotation Comparison - Cost and Commercial Details](screenshots/quotation-comparison-sheet1.png)
-![Quotation Comparison - Compliance and Evaluation Status](screenshots/quotation-comparison-sheet2.png)
+![Quotation Comparison - Cost and Commercial Details](screenshots/Quotation-Comparison-Sheet1.png)
+![Quotation Comparison - Compliance and Evaluation Status](screenshots/Quotation-Comparison-Sheet2.png)
 
 ## Supplier Evaluation
 
@@ -39,8 +39,7 @@ The Supplier Evaluation worksheet compares suppliers using price, lead time, qua
 
 The worksheet includes a compliance gate and recommendation status. Compliance is a mandatory consideration: a high weighted score must not override a non-compliant offer.
 
-![Supplier Evaluation and Weighted Scoring](screenshots/supplier-evaluation-sheet.png)
-
+![Supplier Evaluation and Weighted Scoring](screenshots/Supplier-Evaluation-Sheet.png)
 ## Workbook Structure
 
 The workbook contains eight worksheets:
